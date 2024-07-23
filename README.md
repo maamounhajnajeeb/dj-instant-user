@@ -13,6 +13,6 @@
 
 ## V2 features
 
-resources:
+## resources:
 https://stackoverflow.com/questions/37332190/django-login-with-email#72412808
 https://stackoverflow.com/a/72320454/21626915
